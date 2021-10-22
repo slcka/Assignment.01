@@ -10,4 +10,5 @@ Assignment.01: Apache Spark - DepartureDelays
 
 https://github.com/drabastomek/learningPySpark/blob/master/Data/departuredelays.csv
 
-Hatta bunu da markdown ile linkleyebiliriz (DOSYA)
+Hatta bunu da markdown ile linkleyebiliriz [Departure Delays](https://github.com/drabastomek/learningPySpark/blob/master/Data/departuredelays.csv).
+
